@@ -1,2 +1,1 @@
-# SuperTicTacToe
-FGCU Software Testing Project - Super tic tac toe.
+A simple TicTacToe game with JSwing
